@@ -1,0 +1,3 @@
+([('02.pyside_basic',
+   '/Users/k/Desktop/GIT/crawler/GUI/dist/02.pyside_basic',
+   'EXECUTABLE')],)
