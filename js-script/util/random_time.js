@@ -4,5 +4,5 @@ function getRandomTime() {
   const time = Math.floor(Math.random() * (max - min + 1)) + min;
   return time;
 }
-
-export { getRandomTime as getTime };
+module.exports = { getTime: getRandomTime };
+// export { getRandomTime as getTime };
